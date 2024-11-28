@@ -1,0 +1,47 @@
+com.mycompany.carwash.app-jetified-datastore-1.0.0-0 C:\Users\user\.gradle\caches\transforms-3\0000cf4989ab7ab14322ee6e770e8cfe\transformed\jetified-datastore-1.0.0\res
+com.mycompany.carwash.app-jetified-profileinstaller-1.3.1-1 C:\Users\user\.gradle\caches\transforms-3\1f8d0bd264263b3712612fb07bd5c1a9\transformed\jetified-profileinstaller-1.3.1\res
+com.mycompany.carwash.app-jetified-startup-runtime-1.1.1-2 C:\Users\user\.gradle\caches\transforms-3\253236fe3379d2bc8aab00cbf96432bc\transformed\jetified-startup-runtime-1.1.1\res
+com.mycompany.carwash.app-jetified-window-java-1.2.0-3 C:\Users\user\.gradle\caches\transforms-3\25d94a7495fd85e42471c5cd58426dac\transformed\jetified-window-java-1.2.0\res
+com.mycompany.carwash.app-core-1.13.1-4 C:\Users\user\.gradle\caches\transforms-3\303ba7c8f6dc79b17cdd9ed1734f9fde\transformed\core-1.13.1\res
+com.mycompany.carwash.app-core-runtime-2.2.0-5 C:\Users\user\.gradle\caches\transforms-3\3a29f0f57350d41f8b93e56b7b2054e9\transformed\core-runtime-2.2.0\res
+com.mycompany.carwash.app-jetified-media3-exoplayer-1.4.1-6 C:\Users\user\.gradle\caches\transforms-3\3fa148eb0397ebe952677d43ff79072b\transformed\jetified-media3-exoplayer-1.4.1\res
+com.mycompany.carwash.app-jetified-savedstate-1.2.1-7 C:\Users\user\.gradle\caches\transforms-3\4e4bc81b1a977ad7085b82e4a2bf5ee2\transformed\jetified-savedstate-1.2.1\res
+com.mycompany.carwash.app-jetified-datastore-preferences-1.0.0-8 C:\Users\user\.gradle\caches\transforms-3\5b6e3fd8f6a616b3c39c1c7533cf505a\transformed\jetified-datastore-preferences-1.0.0\res
+com.mycompany.carwash.app-lifecycle-livedata-2.7.0-9 C:\Users\user\.gradle\caches\transforms-3\648bae6dcbe58fa92a560a5b6f8575f6\transformed\lifecycle-livedata-2.7.0\res
+com.mycompany.carwash.app-lifecycle-livedata-core-2.7.0-10 C:\Users\user\.gradle\caches\transforms-3\65a53d43f196e122a071b1aabc1c12da\transformed\lifecycle-livedata-core-2.7.0\res
+com.mycompany.carwash.app-jetified-core-ktx-1.13.1-11 C:\Users\user\.gradle\caches\transforms-3\6b900ad0eb882753682a2b5608ea19fe\transformed\jetified-core-ktx-1.13.1\res
+com.mycompany.carwash.app-jetified-window-1.2.0-12 C:\Users\user\.gradle\caches\transforms-3\8363e3017d58cf094f6702d4e9ea457e\transformed\jetified-window-1.2.0\res
+com.mycompany.carwash.app-jetified-activity-1.9.2-13 C:\Users\user\.gradle\caches\transforms-3\84824e5eb3d52d95f732ce88265b885e\transformed\jetified-activity-1.9.2\res
+com.mycompany.carwash.app-browser-1.8.0-14 C:\Users\user\.gradle\caches\transforms-3\8ceb5005f75a6b072690b14e44af339c\transformed\browser-1.8.0\res
+com.mycompany.carwash.app-jetified-core-1.0.0-15 C:\Users\user\.gradle\caches\transforms-3\9666f75a785f8ab22528be6262b3cd5c\transformed\jetified-core-1.0.0\res
+com.mycompany.carwash.app-media-1.1.0-16 C:\Users\user\.gradle\caches\transforms-3\96b97fb88f7d9c0cd87469a75dfa7df3\transformed\media-1.1.0\res
+com.mycompany.carwash.app-jetified-lifecycle-process-2.7.0-17 C:\Users\user\.gradle\caches\transforms-3\a5b87f6aba2579df66a49f92f29b5b1b\transformed\jetified-lifecycle-process-2.7.0\res
+com.mycompany.carwash.app-jetified-lifecycle-viewmodel-savedstate-2.7.0-18 C:\Users\user\.gradle\caches\transforms-3\ac522dd8bfb5b9709548fe6ea73da87d\transformed\jetified-lifecycle-viewmodel-savedstate-2.7.0\res
+com.mycompany.carwash.app-jetified-tracing-1.2.0-19 C:\Users\user\.gradle\caches\transforms-3\b7f7ad63eda049c4c08e9b3e8bd0d179\transformed\jetified-tracing-1.2.0\res
+com.mycompany.carwash.app-fragment-1.7.1-20 C:\Users\user\.gradle\caches\transforms-3\bfcc610f83e084215426fd13ca1d7f63\transformed\fragment-1.7.1\res
+com.mycompany.carwash.app-jetified-lifecycle-livedata-core-ktx-2.7.0-21 C:\Users\user\.gradle\caches\transforms-3\c2e5ea7ea16a2a14bd70a7e363bdc980\transformed\jetified-lifecycle-livedata-core-ktx-2.7.0\res
+com.mycompany.carwash.app-lifecycle-viewmodel-2.7.0-22 C:\Users\user\.gradle\caches\transforms-3\c3935c5b75053663894b5c559d8d7801\transformed\lifecycle-viewmodel-2.7.0\res
+com.mycompany.carwash.app-lifecycle-runtime-2.7.0-23 C:\Users\user\.gradle\caches\transforms-3\c8d94273c24d56f1345c5e8a6bf6d33b\transformed\lifecycle-runtime-2.7.0\res
+com.mycompany.carwash.app-jetified-annotation-experimental-1.4.0-24 C:\Users\user\.gradle\caches\transforms-3\dd3bbfab2464fb41b5416aae74308a33\transformed\jetified-annotation-experimental-1.4.0\res
+com.mycompany.carwash.app-debug-25 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\android\app\src\debug\res
+com.mycompany.carwash.app-main-26 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\android\app\src\main\res
+com.mycompany.carwash.app-pngs-27 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\app\generated\res\pngs\debug
+com.mycompany.carwash.app-resValues-28 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\app\generated\res\resValues\debug
+com.mycompany.carwash.app-rs-29 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\app\generated\res\rs\debug
+com.mycompany.carwash.app-mergeDebugResources-30 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.mycompany.carwash.app-mergeDebugResources-31 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.mycompany.carwash.app-merged_res-32 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\app\intermediates\merged_res\debug
+com.mycompany.carwash.app-packaged_res-33 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\connectivity_plus\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-34 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\device_info_plus\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-35 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\file_picker\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-36 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\flutter_local_notifications\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-37 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\flutter_plugin_android_lifecycle\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-38 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\image_picker_android\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-39 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\package_info_plus\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-40 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\path_provider_android\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-41 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\permission_handler_android\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-42 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\shared_preferences_android\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-43 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\sqflite_android\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-44 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\url_launcher_android\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-45 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\video_player_android\intermediates\packaged_res\debug
+com.mycompany.carwash.app-packaged_res-46 C:\Users\user\Documents\KARBUDZ PROJECT\Flutter Car Service App\build\wakelock_plus\intermediates\packaged_res\debug
